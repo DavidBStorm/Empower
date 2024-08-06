@@ -57,7 +57,7 @@ Error handling is minimal due to the constraints of the task. Improvements in er
 
 ## How to Run the App
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/beneficiary-management-app.git`
+1. **Clone the Repository**: `git clone https://github.com/DavidBStorm/Empower`
 2. **Open in Android Studio**: Open the project in Android Studio.
 3. **Build and Run**: Build the project and run it on an emulator or physical device.
 
